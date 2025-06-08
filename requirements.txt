@@ -1,0 +1,9 @@
+streamlit
+python-docx
+PyPDF2
+google-generativeai
+reportlab
+beautifulsoup4
+requests
+nltk
+langdetect
