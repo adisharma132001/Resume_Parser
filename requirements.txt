@@ -1,9 +1,12 @@
 streamlit
-python-docx
-PyPDF2
 google-generativeai
-reportlab
-beautifulsoup4
+Pillow
+PyPDF2 # Or pypdf, depending on your exact usage. PyPDF2 is common.
+python-docx
+mammoth
 requests
+beautifulsoup4 # This is the package name for BeautifulSoup
 nltk
 langdetect
+openai # If you're using OpenAI API anywhere
+reportlab
